@@ -68,7 +68,6 @@ groups:
     - essentials.mail
     - essentials.mail.send
     - essentials.pay
-    - essentials.protect
     - essentials.sethome
     - essentials.signs.break.disposal
     - essentials.signs.break.mail
@@ -165,9 +164,6 @@ groups:
     - essentials.kill
     - essentials.mute
     - essentials.nick.others
-    - essentials.protect.admin
-    - essentials.protect.alerts
-    - essentials.protect.ownerinfo
     - essentials.ptime
     - essentials.ptime.others
     - essentials.realname
